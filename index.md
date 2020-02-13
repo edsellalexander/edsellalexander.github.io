@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<html>
+    <head>
+        <title>
+       Homepage
+        </title>
+            <meta charset="UTF-8">    
+    </head>
+    
+       
+    <body style="text-align:center">
+    <h1>I am Alex and this is my website</h1>
+</body>
 
-You can use the [editor on GitHub](https://github.com/edsellalexander/edsellalexander.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    
+<p>I am a college student studying computer information systems and will be transferring to CSUSB next fall.<br> These are the classes I have taken.</p>
+     <select>
+    <option value="fall2019">Fall 2019</option>
+    <option value="spring2020">Spring 2020</option>     
+    </select>
+<ol>    
+    <li>Database Managment</li>
+    <li>Ethical Hacking</li>
+    <li>Website Design</li>
+    <li>Intro to Python</li>
+    <li>Natural Resources</li>
+    <li>Jazz Combo</li>
+    <li>Jazz Big Band</li>
+    <li>Concert Band</li>
+        
+</ol>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<input type="password"><br>
+<input type=radio>
 
-### Markdown
+<p>Here is a link to the website I made using GoDaddy.</p>
+    <a href="https://alexanderedsell.com/" target="_blank">my website</a>
+<nav><a href="html%20exercise.PNG">another assignmenmt in my folder</a></nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edsellalexander/edsellalexander.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
