@@ -7,8 +7,8 @@
     </head>
     
        
-    <body style="text-align:center">
-    <h1>I am Alex and this is my website</h1>
+   <body style="text-align:center">
+   <h1>I am Alex and this is my website</h1>
 </body>
 
     
