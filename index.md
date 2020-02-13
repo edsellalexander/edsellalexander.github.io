@@ -1,8 +1,6 @@
 <html>
     <head>
-        <title>
-       Homepage
-        </title>
+        <title>Homepage</title>
             <meta charset="UTF-8">    
     </head>
     
@@ -33,7 +31,7 @@
 <input type=radio>
 
 <p>Here is a link to the website I made using GoDaddy.</p>
-    <a href="https://alexanderedsell.com/" target="_blank">my website</a>
+    <a href="https://alexanderedsell.com/" target="_blank">my website</a><br>
 <nav><a href="html%20exercise.PNG">another assignmenmt in my folder</a></nav>
 
 
